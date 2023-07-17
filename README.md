@@ -1,2 +1,2 @@
-# OtimizandoSistemaBancario
-Otimizando o Sistema Bancario.
+# Otimizando Sistema Bancário
+Otimizando o Sistema Bancário utilizando funções.
